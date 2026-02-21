@@ -1,0 +1,186 @@
+/* General Settings */
+"settings.title" = "设置";
+"settings.general" = "通用";
+"settings.appearance" = "外观";
+"settings.terminal" = "终端";
+"settings.about" = "关于";
+
+/* Language */
+"language.title" = "语言";
+"language.system" = "跟随系统";
+"language.chinese" = "简体中文";
+"language.english" = "English";
+
+/* Theme */
+"theme.title" = "主题";
+"theme.light" = "浅色";
+"theme.dark" = "深色";
+"theme.system" = "跟随系统";
+
+/* Window Effects */
+"window.opacity" = "窗口透明度";
+"window.blur" = "毛玻璃效果";
+"window.rememberState" = "记住窗口状态";
+
+/* Terminal */
+"terminal.opacity" = "终端透明度";
+"terminal.font" = "字体";
+"terminal.fontSize" = "字号";
+
+/* Common */
+"common.apply" = "应用";
+"common.cancel" = "取消";
+"common.ok" = "确定";
+"common.save" = "保存";
+"common.autoRefreshUI" = "自动刷新界面";
+"settings.preview" = "启用文件预览";
+"about.title" = "关于 FilesManage";
+"about.description" = "轻量的 macOS 文件管理器，支持双栏、标签网址与预览。";
+"about.github" = "打开 GitHub";
+"about.bilibili" = "打开哔哩哔哩";
+"about.download" = "下载最新版本";
+
+/* File Manager */
+"file.loading" = "加载中...";
+"file.empty" = "文件夹为空";
+"file.noAccess" = "无法访问此文件夹";
+"file.requestAccess" = "请求访问权限";
+"file.name" = "名称";
+"file.modifiedDate" = "修改日期";
+"file.size" = "大小";
+"file.permission.denied" = "没有访问权限";
+"file.permission.message" = "此应用需要访问该文件夹才能显示内容。请选择要授权的文件夹。";
+"file.permission.grant" = "授权访问";
+
+/* Sidebar */
+"sidebar.tools" = "工具";
+"sidebar.startup" = "自启动管理";
+"sidebar.favorites" = "收藏夹";
+"sidebar.desktop" = "桌面";
+"sidebar.documents" = "文档";
+"sidebar.downloads" = "下载";
+"sidebar.pictures" = "图片";
+"sidebar.music" = "音乐";
+"sidebar.locations" = "位置";
+"sidebar.home" = "个人";
+"sidebar.applications" = "应用程序";
+"sidebar.tags" = "标签";
+"sidebar.disks" = "磁盘";
+"search.placeholder" = "搜索";
+"sort.title" = "排序";
+"sort.name" = "名称";
+"sort.date" = "时间";
+"sort.size" = "大小";
+"breadcrumb.copyPath" = "复制路径";
+"menu.copy" = "复制";
+"menu.cut" = "剪切";
+"menu.paste" = "粘贴";
+"menu.copyPath" = "复制文件路径";
+"menu.terminal" = "终端";
+"menu.moveToTrash" = "移到废纸篓";
+"menu.rename" = "重命名";
+"menu.properties" = "属性";
+"menu.openWith" = "打开方式…";
+"menu.compress" = "压缩";
+"menu.compressTo" = "压缩为…";
+"menu.decompress" = "解压";
+"menu.decompressTo" = "解压到…";
+"menu.addToTag" = "添加到标签";
+"menu.newTag" = "新建标签…";
+"menu.removeFromTag" = "从标签移除";
+"menu.noTags" = "未加入任何标签";
+"menu.clearTags" = "移出所有标签";
+"tag.rename" = "重命名";
+"tag.delete" = "删除标签";
+"tag.rename.title" = "重命名标签";
+"tag.rename.prompt" = "请输入新的标签名称";
+"tag.create.title" = "新建标签";
+"tag.create.prompt" = "请输入标签名称";
+"tag.name.placeholder" = "标签";
+"preview.selectFile" = "选择一个文件以预览";
+"preview.folder" = "文件夹";
+"file.path" = "路径";
+"file.type" = "类型";
+"file.file" = "文件";
+"common.close" = "关闭";
+"menu.newFolder" = "创建文件夹";
+"menu.newFile" = "新建文件";
+"file.newFolder" = "新建文件夹";
+"file.newFile" = "新建文件";
+"file.copy.suffix" = "副本";
+"file.create.failed" = "无法创建文件";
+"file.rename.prompt" = "请输入新的名称";
+"file.rename.failed" = "重命名失败";
+"file.rename.exists" = "已存在同名项";
+"file.exists" = "文件已存在";
+"file.chooseOperation" = "请选择操作";
+"file.replace" = "替换";
+"file.keepBoth" = "保留两者";
+"file.trash.failedPrefix" = "无法移到废纸篓: ";
+"file.trash.confirm.title" = "确认删除";
+"file.trash.confirm.single" = "是否将“%@”移到废纸篓？";
+"file.trash.confirm.multi" = "是否将选中的 %d 项移到废纸篓？";
+/* Startup Manager */
+"startup.title" = "自启动管理";
+"startup.add" = "添加应用…";
+"startup.remove" = "移除";
+"startup.empty" = "无自启动项";
+"startup.toggle" = "已启用";
+"startup.open" = "打开";
+"startup.showInFinder" = "在访达中显示";
+"startup.delete" = "删除";
+
+/* Toolbar */
+"toolbar.back" = "后退";
+"toolbar.forward" = "前进";
+"toolbar.up" = "上一级";
+"toolbar.home" = "回到个人目录";
+"toolbar.openFolder" = "选择文件夹";
+"toolbar.openTerminal" = "在当前路径打开终端";
+"toolbar.listView" = "列表视图";
+"toolbar.gridView" = "网格视图";
+"toolbar.twoPane" = "双栏模式";
+"toolbar.sortDirection" = "切换升/降序";
+"toolbar.refresh" = "刷新";
+"toolbar.path.placeholder" = "输入路径…";
+"toolbar.path.error" = "路径不存在或不可访问";
+"toolbar.searchRecursive" = "搜索子文件夹";
+"progress.compress" = "压缩中…";
+"progress.decompress" = "解压中…";
+"progress.copying" = "复制中…";
+"progress.moving" = "移动中…";
+"progress.trashing" = "正在移到废纸篓…";
+"progress.deleting" = "删除中…";
+"progress.cancel" = "取消";
+"disk.used" = "已用";
+"disk.free" = "可用";
+"disk.total" = "总计";
+/* Tag URLs */
+"tag.url.add" = "添加网址…";
+"tag.url.open" = "打开网址";
+"tag.url.remove" = "移除网址";
+"tag.url.create.title" = "添加网址";
+"tag.url.create.prompt" = "请输入网址（支持 http/https）";
+"tag.url.placeholder" = "例如：https://example.com";
+"tag.url.clear" = "清除所有网址";
+/* Tag Link Meta */
+"tag.link.manual.title" = "添加网址信息";
+"tag.link.manual.prompt" = "请输入标题（图标可选）";
+"tag.link.title.placeholder" = "标题";
+"tag.link.chooseIcon" = "选择图标…";
+"menu.link.renameTitle" = "重命名网址标题";
+"menu.link.changeIcon" = "更换图标…";
+"openWith.default" = "默认";
+"openWith.other" = "其他…";
+"openWith.setDefault" = "设置为默认启动程序";
+"openWith.setDefault.prompt" = "选择默认打开该类型文件的程序";
+/* Update */
+"update.available.title" = "发现新版本";
+"update.available.message" = "最新版本 %@ 已经发布，是否前往下载？";
+"update.latest.title" = "已是最新版本";
+"update.latest.message" = "当前版本已是最新。";
+"update.check" = "检查更新";
+"update.download" = "前往下载";
+"update.ignore" = "不再提醒";
+"archive.tool.missing" = "缺少必要的解压工具";
+"archive.tool.install" = "请先安装以下工具以解压该文件：brew install %@";

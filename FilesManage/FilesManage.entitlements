@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<!-- 禁用 App Sandbox 以允许完全文件系统访问 -->
+	<key>com.apple.security.app-sandbox</key>
+	<false/>
+	
+	<!-- 或者如果需要启用沙盒，使用以下权限 -->
+	<!--
+	<key>com.apple.security.app-sandbox</key>
+	<true/>
+	<key>com.apple.security.files.user-selected.read-write</key>
+	<true/>
+	<key>com.apple.security.files.downloads.read-write</key>
+	<true/>
+	<key>com.apple.security.files.pictures.read-write</key>
+	<true/>
+	<key>com.apple.security.files.music.read-write</key>
+	<true/>
+	<key>com.apple.security.files.movies.read-write</key>
+	<true/>
+	-->
+</dict>
+</plist>

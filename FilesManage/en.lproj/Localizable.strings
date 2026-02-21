@@ -1,0 +1,186 @@
+/* General Settings */
+"settings.title" = "Settings";
+"settings.general" = "General";
+"settings.appearance" = "Appearance";
+"settings.terminal" = "Terminal";
+"settings.about" = "About";
+
+/* Language */
+"language.title" = "Language";
+"language.system" = "System";
+"language.chinese" = "简体中文";
+"language.english" = "English";
+
+/* Theme */
+"theme.title" = "Theme";
+"theme.light" = "Light";
+"theme.dark" = "Dark";
+"theme.system" = "System";
+
+/* Window Effects */
+"window.opacity" = "Window Opacity";
+"window.blur" = "Blur Effect";
+"window.rememberState" = "Remember Window State";
+
+/* Terminal */
+"terminal.opacity" = "Terminal Opacity";
+"terminal.font" = "Font";
+"terminal.fontSize" = "Font Size";
+
+/* Common */
+"common.apply" = "Apply";
+"common.cancel" = "Cancel";
+"common.ok" = "OK";
+"common.save" = "Save";
+"common.autoRefreshUI" = "Auto Refresh UI";
+"settings.preview" = "Enable Preview";
+"about.title" = "About FilesManage";
+"about.description" = "A lightweight macOS file manager with dual-pane, tags & preview.";
+"about.github" = "Open GitHub";
+"about.bilibili" = "Open Bilibili";
+"about.download" = "Download Latest";
+
+/* File Manager */
+"file.loading" = "Loading...";
+"file.empty" = "Folder is empty";
+"file.noAccess" = "Cannot access this folder";
+"file.requestAccess" = "Request Access";
+"file.name" = "Name";
+"file.modifiedDate" = "Modified Date";
+"file.size" = "Size";
+"file.permission.denied" = "Permission denied";
+"file.permission.message" = "This app needs access to this folder to display its contents. Please select the folder to grant access.";
+"file.permission.grant" = "Grant Access";
+
+/* Sidebar */
+"sidebar.tools" = "Tools";
+"sidebar.startup" = "Startup Manager";
+"sidebar.favorites" = "Favorites";
+"sidebar.desktop" = "Desktop";
+"sidebar.documents" = "Documents";
+"sidebar.downloads" = "Downloads";
+"sidebar.pictures" = "Pictures";
+"sidebar.music" = "Music";
+"sidebar.locations" = "Locations";
+"sidebar.home" = "Home";
+"sidebar.applications" = "Applications";
+"sidebar.tags" = "Tags";
+"sidebar.disks" = "Disks";
+"search.placeholder" = "Search";
+"sort.title" = "Sort";
+"sort.name" = "Name";
+"sort.date" = "Date";
+"sort.size" = "Size";
+"breadcrumb.copyPath" = "Copy Path";
+"menu.copy" = "Copy";
+"menu.cut" = "Cut";
+"menu.paste" = "Paste";
+"menu.copyPath" = "Copy File Path";
+"menu.terminal" = "Terminal";
+"menu.moveToTrash" = "Move to Trash";
+"menu.rename" = "Rename";
+"menu.properties" = "Properties";
+"menu.openWith" = "Open With…";
+"menu.compress" = "Compress";
+"menu.compressTo" = "Compress to…";
+"menu.decompress" = "Decompress";
+"menu.decompressTo" = "Decompress to…";
+"menu.addToTag" = "Add to Tag";
+"menu.newTag" = "New Tag…";
+"menu.removeFromTag" = "Remove from Tag";
+"menu.noTags" = "Not in any tag";
+"menu.clearTags" = "Remove all tags";
+"tag.rename" = "Rename";
+"tag.delete" = "Delete Tag";
+"tag.rename.title" = "Rename Tag";
+"tag.rename.prompt" = "Enter new tag name";
+"tag.create.title" = "Create Tag";
+"tag.create.prompt" = "Enter tag name";
+"tag.name.placeholder" = "Tag";
+"preview.selectFile" = "Select a file to preview";
+"preview.folder" = "Folder";
+"file.path" = "Path";
+"file.type" = "Type";
+"file.file" = "File";
+"common.close" = "Close";
+"menu.newFolder" = "Create Folder";
+"menu.newFile" = "New File";
+"file.newFolder" = "New Folder";
+"file.newFile" = "New File";
+"file.copy.suffix" = "Copy";
+"file.create.failed" = "Failed to create file";
+"file.rename.prompt" = "Enter new name";
+"file.rename.failed" = "Rename failed";
+"file.rename.exists" = "An item with the same name already exists";
+"file.exists" = "File exists";
+"file.chooseOperation" = "Choose an action";
+"file.replace" = "Replace";
+"file.keepBoth" = "Keep Both";
+"file.trash.failedPrefix" = "Failed to move to Trash: ";
+"file.trash.confirm.title" = "Confirm Delete";
+"file.trash.confirm.single" = "Move \"%@\" to Trash?";
+"file.trash.confirm.multi" = "Move %d selected item(s) to Trash?";
+/* Startup Manager */
+"startup.title" = "Startup Items";
+"startup.add" = "Add App…";
+"startup.remove" = "Remove";
+"startup.empty" = "No startup items found";
+"startup.toggle" = "Enabled";
+"startup.open" = "Open";
+"startup.showInFinder" = "Show in Finder";
+"startup.delete" = "Delete";
+
+/* Toolbar */
+"toolbar.back" = "Back";
+"toolbar.forward" = "Forward";
+"toolbar.up" = "Up";
+"toolbar.home" = "Go to Home";
+"toolbar.openFolder" = "Choose Folder";
+"toolbar.openTerminal" = "Open Terminal at Current Path";
+"toolbar.listView" = "List View";
+"toolbar.gridView" = "Grid View";
+"toolbar.twoPane" = "Two-Pane Mode";
+"toolbar.sortDirection" = "Toggle Asc/Desc";
+"toolbar.refresh" = "Refresh";
+"toolbar.path.placeholder" = "Enter path…";
+"toolbar.path.error" = "Path not found or inaccessible";
+"toolbar.searchRecursive" = "Search subfolders";
+"progress.compress" = "Compressing…";
+"progress.decompress" = "Decompressing…";
+"progress.copying" = "Copying…";
+"progress.moving" = "Moving…";
+"progress.trashing" = "Moving to Trash…";
+"progress.deleting" = "Deleting…";
+"progress.cancel" = "Cancel";
+"disk.used" = "Used";
+"disk.free" = "Free";
+"disk.total" = "Total";
+/* Tag URLs */
+"tag.url.add" = "Add URL…";
+"tag.url.open" = "Open URLs";
+"tag.url.remove" = "Remove URLs";
+"tag.url.create.title" = "Add URL";
+"tag.url.create.prompt" = "Enter a URL (http/https)";
+"tag.url.placeholder" = "e.g. https://example.com";
+"tag.url.clear" = "Clear All URLs";
+/* Tag Link Meta */
+"tag.link.manual.title" = "Add URL Info";
+"tag.link.manual.prompt" = "Enter a title (icon optional)";
+"tag.link.title.placeholder" = "Title";
+"tag.link.chooseIcon" = "Choose Icon…";
+"menu.link.renameTitle" = "Rename Link Title";
+"menu.link.changeIcon" = "Change Icon…";
+"openWith.default" = "Default";
+"openWith.other" = "Other…";
+"openWith.setDefault" = "Set Default Application";
+"openWith.setDefault.prompt" = "Choose the default application for this file type";
+/* Update */
+"update.available.title" = "New Version Available";
+"update.available.message" = "Version %@ is available. Would you like to download it?";
+"update.latest.title" = "Up to Date";
+"update.latest.message" = "You are using the latest version.";
+"update.check" = "Check for Updates";
+"update.download" = "Download";
+"update.ignore" = "Don't Remind Again";
+"archive.tool.missing" = "Missing Decompression Tools";
+"archive.tool.install" = "Please install the following tools to decompress this file: brew install %@";
