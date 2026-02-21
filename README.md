@@ -35,3 +35,10 @@
 - 双栏便于对比并在目录间进行操作
 - 右击菜单与顶部功能菜单提供常用操作入口
 - 界面未更新时可使用 F5 刷新
+
+## 安装与构建
+
+- 从 Mac App Store 安装 Xcode
+- 使用 Xcode 打开项目 `FilesManage.xcodeproj`
+- 选择 Scheme `FilesManage`，点击运行按钮（⌘R）即可构建并运行
+- 如需打包 DMG/PKG 或查看更多构建细节，请参考 [Build_README.md](./Build_README.md)

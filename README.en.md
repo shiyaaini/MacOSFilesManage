@@ -36,3 +36,10 @@ A clean and efficient local file manager supporting dual-pane browsing, quick te
 - Dual-pane layout helps compare and operate across directories
 - Use the context menu and top menu for common actions
 - Press F5 if the interface does not update in time
+
+## Install & Build
+
+- Install Xcode from the Mac App Store
+- Open the project `FilesManage.xcodeproj` in Xcode
+- Select the `FilesManage` scheme and click Run (⌘R) to build and run
+- For DMG/PKG packaging or more details, see [Build_README.md](./Build_README.md)
